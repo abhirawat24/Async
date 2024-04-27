@@ -1,0 +1,1 @@
+This is a file to perform the fs readfile async function, this file is just here for research purpose.
