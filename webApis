@@ -1,0 +1,7 @@
+function callBack(data) {
+  console.log("A 5 Second wait before printing");
+}
+setTimeout(callBack, 5000);
+console.log(
+  "This line will be executed first because of the Asyncronus nature while using Web APIs",
+);
