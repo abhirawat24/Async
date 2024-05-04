@@ -8,5 +8,5 @@ return ans;
 function findSumTill100() {
   console.log(findSum(100));
 }
-setTimeout(findSumTill100, 1000)
-console.log("Hello World")
+setTimeout(findSumTill100, 1000);
+console.log("Hello World");
