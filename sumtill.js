@@ -1,3 +1,4 @@
+//The following program accepts a number in the variable 'n' and calculates the sum till that number
 function findSum(n) {
   let ans = 0;
   for (let i= 0; i<n;i++) {
