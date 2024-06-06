@@ -1,3 +1,4 @@
+//A promisifiedTimeout is used to avoid callback hell making the async await code more seamless
 function promisifiedTimeout(duration) {
   const p = new Promise(function (resolve) {
     setTimeout(resolve, duration);
